@@ -35,3 +35,12 @@ UDR(User Difine Route)...ユーザー定義ルート。デフォルトで割り�
 つまり、UDRを設定してあげればFWを経由した通信が実装で切るようになります。
 
 
+### 作ってみた構成
+今回検証用に作成した公正は以下の図の通り
+![作ってみた構成](img/udr構成.png)
+
+早速作ってみる。
+
+[参考資料](https://learn.microsoft.com/ja-jp/azure/firewall/tutorial-firewall-deploy-portal-policy)
+
+
